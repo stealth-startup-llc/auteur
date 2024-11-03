@@ -1,0 +1,12 @@
+[package]
+name = "usl"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix = "0.13.5"
+actix-web = "4.9.0"
+bcrypt = "0.15.1"
+leptos = "0.6.15"
+serde = { version = "1", features = ["derive"] }
+surrealdb = "2.0.4"
