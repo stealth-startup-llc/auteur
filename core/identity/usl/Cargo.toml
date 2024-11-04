@@ -7,6 +7,6 @@ edition = "2021"
 actix = "0.13.5"
 actix-web = "4.9.0"
 bcrypt = "0.15.1"
-leptos = "0.6.15"
+leptos = { version = "0.6.15", features = ["csr", "nightly"] }
 serde = { version = "1", features = ["derive"] }
 surrealdb = "2.0.4"
