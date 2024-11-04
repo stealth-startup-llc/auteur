@@ -67,3 +67,5 @@ node_modules/
 
 # Python virtual environments (if applicable)
 venv/
+
+history.txt

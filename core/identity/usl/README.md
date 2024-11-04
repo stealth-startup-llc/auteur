@@ -21,7 +21,8 @@ This service provides a centralized authentication system for all users, both in
 ### Prerequisites
 
 * **Rust:** Install Rust using rustup: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
-* **SurrealDB:**  Install SurrealDB and start the server: `surreal start --user admin --pass password`
+* **SurrealDB:**  Install SurrealDB  and start the server: `surreal start --user admin --pass password`
+  * Install https://surrealdb.com/docs/surrealdb/installation/macos
 
 ### Installation
 
